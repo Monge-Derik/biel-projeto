@@ -34,10 +34,14 @@ img{
 h1{
     color:#5bbe42;
     font-weight: 50;
+
 }
 
 h3{
     font-family:"Quicksand",Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+    text-align: left;
+    color: #5bbe42;
 }
 
 .sobremim{
@@ -83,14 +87,12 @@ footer{
     margin-right: 20px;
     text-align: center;
     color: black;
-
 }
 
 nav a{
     color: black;
     font-family: "Quicksand",Arial, Helvetica, sans-serif;
     border: 30px;
-    border-radius: 50%;
 }
 
 .Habilidades{
@@ -108,13 +110,32 @@ nav a{
 }
 
 main{
-    text-align: center;
-    margin-right: 30%;
+    text-align: right;
+    margin-right: 50%;
 }
 
 .contactslink:hover{
     transition: 1s;
     color: #5bbe42;
+    border: 5px green groove;
+    border-radius: 50%;
+    
+}
+
+.projectslink:hover{
+    transition: 1s;
+    color: #5bbe42;
+    border: 5px green groove;
+    border-radius: 50%;
+    
+}
+
+.sobremimlink:hover{
+    transition: 1s;
+    color: #5bbe42;
+    border: 5px green groove;
+    border-radius: 50%;
+    
 }
 
 
