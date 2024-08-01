@@ -135,12 +135,25 @@ main{
     color: #5bbe42;
     border: 5px green groove;
     border-radius: 50%;
-    
 }
 
 .coracao{
     color: red;
 }
+
+/*.sobremimlink{
+    border-radius: 5px;
+    padding: 10px;
+    color: white;
+}
+.sobremimlink:hover {
+    transition: 1s;
+    border: 1px black solid;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: black;
+    color: white;
+} */
 
 
 
