@@ -73,6 +73,7 @@ footer{
 
     width: 10%;
     margin: auto;
+    height: 50px;
 
 }
 
@@ -93,6 +94,8 @@ nav a{
     color: black;
     font-family: "Quicksand",Arial, Helvetica, sans-serif;
     border: 30px;
+    width: 100px;
+    height: 100px;
 }
 
 .habilidades{
@@ -149,6 +152,25 @@ main{
     color: red;
 }
 
+ol{
+    list-style-type: circle;
+}
+
+p{
+    text-align: left;
+}
+
+h2{
+    text-align: left;
+}
+
+
+.rocklee{
+    width: 500px;
+    height: 500px;
+    text-align: right;
+    margin-left: 60%;
+}
 
 
 
